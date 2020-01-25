@@ -4,7 +4,6 @@
 #
 %define		pdir	Class
 %define		pnam	Accessor-Lite
-%include	/usr/lib/rpm/macros.perl
 Summary:	Class::Accessor::Lite - a minimalistic variant of Class::Accessor
 Name:		perl-Class-Accessor-Lite
 Version:	0.08
