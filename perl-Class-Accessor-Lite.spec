@@ -7,7 +7,7 @@
 Summary:	Class::Accessor::Lite - a minimalistic variant of Class::Accessor
 Name:		perl-Class-Accessor-Lite
 Version:	0.08
-Release:	1
+Release:	2
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Class/%{pdir}-%{pnam}-%{version}.tar.gz
